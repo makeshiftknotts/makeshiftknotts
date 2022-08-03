@@ -1,1 +1,3 @@
+New learning environment for a beginner developer! 
 
+Projects arriving shortly ...
