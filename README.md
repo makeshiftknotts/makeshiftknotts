@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @makeshiftknotts
+- 👀 I’m interested in coding in general. I will create a simple website soon, and I am learning Java alongside this,
+- so hopefully I can start uploading some simple Java projects to github shortly.
+- 🌱 I’m currently learning Java, alongside taking Microsoft Azure qualifications.
